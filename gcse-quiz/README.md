@@ -1,17 +1,15 @@
-# GCSE Quiz Hub (Multi-Subject)
+# GCSE Quiz Hub — Cleaned & Multi-Topic
 
-Subjects: Maths, Physics, Chemistry, Biology
+- Unique question banks per subject (fuzzy dedup ≥ 0.8), sorted by topic
+- Multi-topic selection, difficulty filter, pick count
+- Random selection, no repeats
+- Live percentage based ONLY on answered questions
+- Donate: https://paypal.me/moet86
+- Feedback: iworks2025@outlook.com
 
-## Quick Start
+## Run
 npm install
 npm run dev
 
 ## Build
 npm run build
-
-## Deploy
-Any static host (Vercel, Netlify, GitHub Pages). JSON banks live in /public.
-
-## Configure
-- Donate opens: https://paypal.me/moet86
-- Feedback email: iworks2025@outlook.com

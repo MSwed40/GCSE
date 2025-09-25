@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "id": 7,
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "question": "Solve for x: 5x + 0 = 2.",
+    "choices": [
+      "0.4",
+      "1.4",
+      "-0.6",
+      "-0.4"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "topic": "Algebra",
+    "subtopic": "Quadratics",
+    "question": "Factorise x² -5x -6.",
+    "choices": [
+      "(x+1)(x-6)",
+      "(x+0)(x+6)",
+      "(x-1)(x+7)",
+      "(x-1)(x+6)"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "topic": "Algebra",
+    "subtopic": "Quadratics",
+    "question": "Factorise x² +9x +14.",
+    "choices": [
+      "(x-2)(x-7)",
+      "(x-1)(x-7)",
+      "(x+2)(x+7)",
+      "(x-2)(x-6)"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "topic": "Geometry",
+    "subtopic": "Pythagoras",
+    "question": "Right triangle with legs 10 and 8. Find the hypotenuse length (2 d.p.).",
+    "choices": [
+      "6.0",
+      "12.81",
+      "2",
+      "18"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "topic": "Geometry",
+    "subtopic": "Trigonometry",
+    "question": "Opposite = 18, Hypotenuse = 24. Find angle θ to 1 d.p.",
+    "choices": [
+      "48.6°",
+      "53.6°",
+      "43.6°",
+      "41.4°"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "topic": "Number",
+    "subtopic": "Decimals",
+    "question": "Which statement is true?",
+    "choices": [
+      "The median equals the mode always",
+      "Exterior angles of triangle sum to 360°",
+      "A square has 3 equal sides",
+      "Opposite angles in a parallelogram are equal"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "topic": "Number",
+    "subtopic": "Fractions",
+    "question": "Simplify 1/10 + 3/8 (to 3 d.p.).",
+    "choices": [
+      "-0.275",
+      "0.475",
+      "0.222",
+      "0.425"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 1,
+    "topic": "Number",
+    "subtopic": "Integers",
+    "question": "Calculate 4 + 15.",
+    "choices": [
+      "-11",
+      "19",
+      "20",
+      "11"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "topic": "Number",
+    "subtopic": "Integers",
+    "question": "Calculate 12 + -29.",
+    "choices": [
+      "41",
+      "-17",
+      "-16",
+      "-41"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "topic": "Number",
+    "subtopic": "Percentages",
+    "question": "Find 25% of 800.",
+    "choices": [
+      "197.5",
+      "202.5",
+      "200.0",
+      "600.0"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "topic": "Number",
+    "subtopic": "Percentages",
+    "question": "Find 10% of 350.",
+    "choices": [
+      "35.0",
+      "315.0",
+      "34.0",
+      "36.0"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "topic": "Probability",
+    "subtopic": "Single Events",
+    "question": "A bag has 12 equally likely balls; 10 are red. P(red)=?",
+    "choices": [
+      "10/22",
+      "2/12",
+      "10/12",
+      "11/12"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "topic": "Ratio & Proportion",
+    "subtopic": "Ratios",
+    "question": "Simplify the ratio 30:36.",
+    "choices": [
+      "10:12",
+      "5:6",
+      "10:36",
+      "30:12"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "topic": "Statistics",
+    "subtopic": "Mean/Median/Mode",
+    "question": "Data: [6, 6, 7, 8, 17]. Find the mean (1 d.p.).",
+    "choices": [
+      "7.8",
+      "8.8",
+      "44",
+      "9.8"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "topic": "Statistics",
+    "subtopic": "Mean/Median/Mode",
+    "question": "Data: [30, 3, 16, 19, 3]. Find the mean (1 d.p.).",
+    "choices": [
+      "13.2",
+      "14.2",
+      "71",
+      "15.2"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "topic": "Statistics",
+    "subtopic": "Mean/Median/Mode",
+    "question": "Data: [15, 10, 21, 21, 18]. Find the mean (1 d.p.).",
+    "choices": [
+      "17.0",
+      "18.0",
+      "16.0",
+      "85"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  }
+]

@@ -2,26 +2,22 @@ import React, { useState } from 'react'
 import Quiz from './Quiz'
 
 const subjectThemes = {
-  Maths: '#dbeafe',      // pastel blue
-  Physics: '#ede9fe',    // pastel purple
-  Chemistry: '#fee2e2',  // pastel red
-  Biology: '#dcfce7',    // pastel green
+  Maths: '#dbeafe',
+  Physics: '#ede9fe',
+  Chemistry: '#fee2e2',
+  Biology: '#dcfce7',
 }
 
 export default function App() {
   const [subject, setSubject] = useState(null)
   const [toast, setToast] = useState('')
 
-  const showToast = (msg) => {
-    setToast(msg)
-    setTimeout(() => setToast(''), 4000)
-  }
+  const showToast = (msg) => { setToast(msg); setTimeout(() => setToast(''), 4000) }
 
   const handleDonate = () => {
     window.open('https://paypal.me/moet86', '_blank')
     showToast('✅ Thank you! PayPal opened in a new tab.')
   }
-
   const handleFeedback = () => {
     window.location.href = 'mailto:iworks2025@outlook.com?subject=GCSE Quiz Feedback'
     showToast('✉️ Your email app should now be open.')
@@ -37,9 +33,9 @@ export default function App() {
             <button key={subj} onClick={() => setSubject(subj)}
               style={{ padding:'1.5rem 2.5rem', borderRadius:'12px', border:'none', fontSize:'1.2rem', cursor:'pointer',
                        background:subjectThemes[subj], minWidth:'160px', boxShadow:'0 2px 6px rgba(0,0,0,0.1)', transition:'transform 0.2s' }}
-              onMouseOver={(e)=>e.currentTarget.style.transform='scale(1.05)'}
-              onMouseOut={(e)=>e.currentTarget.style.transform='scale(1)'}
-            >{subj}</button>
+              onMouseOver={(e)=>e.currentTarget.style.transform='scale(1.05)'} onMouseOut={(e)=>e.currentTarget.style.transform='scale(1)'}>
+              {subj}
+            </button>
           ))}
         </div>
         <div style={{ marginTop:'4rem' }}>
