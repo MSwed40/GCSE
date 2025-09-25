@@ -1,0 +1,5882 @@
+[
+  {
+    "id": 1,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Capillary",
+      "Venule",
+      "Vein",
+      "Artery"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Blocking pores",
+      "Killing all pathogens",
+      "Cooling the body",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Chloroplasts",
+      "Golgi body"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Node",
+      "Synapse",
+      "Dendrite"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "25%",
+      "75%",
+      "50%",
+      "0%"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "90%",
+      "50%",
+      "10%",
+      "1%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Rare diseases",
+      "Random traits",
+      "Lowest yield",
+      "Desired characteristics"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Chloroplast",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Ligase",
+      "Lipase",
+      "Protease",
+      "Amylase"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Blocking pores",
+      "Cooling the body"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplasts"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Node",
+      "Axon",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "One triploid cell",
+      "Diploid clones",
+      "Two identical cells",
+      "Four haploid non-identical gametes"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "Less stable",
+      "More polluted",
+      "Unchanged",
+      "More stable"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "All offspring survive",
+      "Random survival only",
+      "No variation",
+      "Differential survival and reproduction"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Chloroplast",
+      "Ribosome"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Meristem",
+      "Phloem",
+      "Xylem",
+      "Epidermis"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Cooling the body",
+      "Killing all pathogens"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Mitochondria",
+      "Chloroplasts",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Node",
+      "Axon",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Monosaccharides",
+      "Amino acids",
+      "Nucleotides with bases A, T, C, G",
+      "Fatty acids"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Respiration",
+      "Transpiration",
+      "Condensation",
+      "Photosynthesis"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Cloning only",
+      "Crossing two species naturally",
+      "Transferring a gene from one organism to another",
+      "Training animals"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Vein",
+      "Artery",
+      "Capillary",
+      "Venule"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Blocking pores",
+      "Cooling the body",
+      "Killing all pathogens",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Nucleus",
+      "Golgi body",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Dendrite",
+      "Synapse",
+      "Axon"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "50%",
+      "25%",
+      "0%",
+      "75%"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "1%",
+      "10%",
+      "50%",
+      "90%"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Lowest yield",
+      "Desired characteristics",
+      "Random traits",
+      "Rare diseases"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Chloroplast",
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Protease",
+      "Ligase",
+      "Lipase",
+      "Amylase"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Blocking pores",
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Cooling the body"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Golgi body",
+      "Nucleus",
+      "Chloroplasts"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Axon",
+      "Dendrite",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Two identical cells",
+      "Four haploid non-identical gametes",
+      "Diploid clones",
+      "One triploid cell"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More stable",
+      "Less stable",
+      "More polluted",
+      "Unchanged"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "No variation",
+      "All offspring survive",
+      "Random survival only",
+      "Differential survival and reproduction"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Meristem",
+      "Phloem",
+      "Xylem",
+      "Epidermis"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Cooling the body"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Nucleus",
+      "Golgi body",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Synapse",
+      "Dendrite",
+      "Node"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Amino acids",
+      "Nucleotides with bases A, T, C, G",
+      "Monosaccharides",
+      "Fatty acids"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Condensation",
+      "Transpiration",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Cloning only",
+      "Crossing two species naturally",
+      "Training animals",
+      "Transferring a gene from one organism to another"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Venule",
+      "Vein",
+      "Artery",
+      "Capillary"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Cooling the body"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Chloroplasts",
+      "Golgi body",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Dendrite",
+      "Node",
+      "Axon"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "0%",
+      "75%",
+      "50%",
+      "25%"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 55,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "10%",
+      "50%",
+      "1%",
+      "90%"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Random traits",
+      "Rare diseases",
+      "Desired characteristics",
+      "Lowest yield"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Chloroplast",
+      "Ribosome",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Protease",
+      "Ligase",
+      "Lipase",
+      "Amylase"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Killing all pathogens",
+      "Blocking pores",
+      "Stimulating memory cells",
+      "Cooling the body"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Chloroplasts",
+      "Golgi body",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Axon",
+      "Node",
+      "Dendrite"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 62,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Diploid clones",
+      "One triploid cell",
+      "Four haploid non-identical gametes",
+      "Two identical cells"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More polluted",
+      "More stable",
+      "Less stable",
+      "Unchanged"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "No variation",
+      "Random survival only",
+      "All offspring survive",
+      "Differential survival and reproduction"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Epidermis",
+      "Phloem",
+      "Xylem",
+      "Meristem"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Blocking pores"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Golgi body",
+      "Nucleus"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Axon",
+      "Node",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Monosaccharides",
+      "Fatty acids",
+      "Nucleotides with bases A, T, C, G",
+      "Amino acids"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Condensation",
+      "Transpiration",
+      "Respiration",
+      "Photosynthesis"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Cloning only",
+      "Crossing two species naturally",
+      "Transferring a gene from one organism to another",
+      "Training animals"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Vein",
+      "Capillary",
+      "Artery",
+      "Venule"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Cooling the body"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Nucleus",
+      "Chloroplasts",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Node",
+      "Axon",
+      "Dendrite"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "25%",
+      "0%",
+      "75%",
+      "50%"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "10%",
+      "50%",
+      "90%",
+      "1%"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Desired characteristics",
+      "Random traits",
+      "Lowest yield",
+      "Rare diseases"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Protease",
+      "Amylase",
+      "Lipase",
+      "Ligase"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Cooling the body",
+      "Blocking pores"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Nucleus",
+      "Mitochondria",
+      "Golgi body"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Node",
+      "Dendrite",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Diploid clones",
+      "One triploid cell",
+      "Four haploid non-identical gametes",
+      "Two identical cells"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More stable",
+      "Unchanged",
+      "Less stable",
+      "More polluted"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "Random survival only",
+      "All offspring survive",
+      "No variation",
+      "Differential survival and reproduction"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Chloroplast",
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Meristem",
+      "Epidermis",
+      "Xylem",
+      "Phloem"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Blocking pores"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Mitochondria",
+      "Golgi body",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Node",
+      "Axon",
+      "Dendrite"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Monosaccharides",
+      "Nucleotides with bases A, T, C, G",
+      "Amino acids",
+      "Fatty acids"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Condensation",
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Crossing two species naturally",
+      "Cloning only",
+      "Training animals",
+      "Transferring a gene from one organism to another"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Ribosome",
+      "Nucleus",
+      "Chloroplast"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Artery",
+      "Capillary",
+      "Venule",
+      "Vein"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 99,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Blocking pores",
+      "Cooling the body",
+      "Stimulating memory cells",
+      "Killing all pathogens"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Golgi body",
+      "Nucleus"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Dendrite",
+      "Synapse",
+      "Axon"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "25%",
+      "75%",
+      "50%",
+      "0%"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "50%",
+      "90%",
+      "1%",
+      "10%"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Lowest yield",
+      "Desired characteristics",
+      "Rare diseases",
+      "Random traits"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Protease",
+      "Ligase",
+      "Lipase",
+      "Amylase"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Blocking pores",
+      "Cooling the body"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Golgi body",
+      "Mitochondria",
+      "Chloroplasts"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Synapse",
+      "Node",
+      "Axon"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Diploid clones",
+      "One triploid cell",
+      "Four haploid non-identical gametes",
+      "Two identical cells"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More stable",
+      "Unchanged",
+      "More polluted",
+      "Less stable"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "Differential survival and reproduction",
+      "Random survival only",
+      "No variation",
+      "All offspring survive"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Phloem",
+      "Meristem",
+      "Epidermis",
+      "Xylem"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Cooling the body",
+      "Blocking pores"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Chloroplasts",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Node",
+      "Dendrite",
+      "Axon"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Fatty acids",
+      "Monosaccharides",
+      "Nucleotides with bases A, T, C, G",
+      "Amino acids"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Transpiration",
+      "Photosynthesis",
+      "Condensation",
+      "Respiration"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 120,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Training animals",
+      "Cloning only",
+      "Crossing two species naturally",
+      "Transferring a gene from one organism to another"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Artery",
+      "Vein",
+      "Capillary",
+      "Venule"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 123,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Blocking pores",
+      "Killing all pathogens",
+      "Cooling the body",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Golgi body",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Synapse",
+      "Node",
+      "Axon"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "50%",
+      "75%",
+      "0%",
+      "25%"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "90%",
+      "10%",
+      "1%",
+      "50%"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 128,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Lowest yield",
+      "Desired characteristics",
+      "Random traits",
+      "Rare diseases"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Ligase",
+      "Lipase",
+      "Amylase",
+      "Protease"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 131,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Killing all pathogens"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Chloroplasts",
+      "Mitochondria",
+      "Golgi body"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Axon",
+      "Synapse",
+      "Node"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Two identical cells",
+      "Four haploid non-identical gametes",
+      "Diploid clones",
+      "One triploid cell"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More stable",
+      "Less stable",
+      "Unchanged",
+      "More polluted"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "Random survival only",
+      "No variation",
+      "All offspring survive",
+      "Differential survival and reproduction"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Phloem",
+      "Epidermis",
+      "Xylem",
+      "Meristem"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Blocking pores",
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Cooling the body"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 140,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Nucleus",
+      "Golgi body"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Axon",
+      "Synapse",
+      "Dendrite"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Nucleotides with bases A, T, C, G",
+      "Monosaccharides",
+      "Amino acids",
+      "Fatty acids"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Condensation",
+      "Transpiration",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Transferring a gene from one organism to another",
+      "Cloning only",
+      "Training animals",
+      "Crossing two species naturally"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplast"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Venule",
+      "Capillary",
+      "Vein",
+      "Artery"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Cooling the body",
+      "Killing all pathogens"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Mitochondria",
+      "Nucleus",
+      "Golgi body"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Axon",
+      "Synapse",
+      "Node"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "0%",
+      "75%",
+      "25%",
+      "50%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "1%",
+      "10%",
+      "90%",
+      "50%"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Random traits",
+      "Desired characteristics",
+      "Lowest yield",
+      "Rare diseases"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplast"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 154,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Lipase",
+      "Amylase",
+      "Ligase",
+      "Protease"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 155,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Killing all pathogens",
+      "Cooling the body",
+      "Stimulating memory cells",
+      "Blocking pores"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Golgi body",
+      "Nucleus",
+      "Chloroplasts"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Synapse",
+      "Dendrite",
+      "Axon"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 158,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "One triploid cell",
+      "Two identical cells",
+      "Four haploid non-identical gametes",
+      "Diploid clones"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More stable",
+      "Unchanged",
+      "More polluted",
+      "Less stable"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 160,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "No variation",
+      "Differential survival and reproduction",
+      "All offspring survive",
+      "Random survival only"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Epidermis",
+      "Xylem",
+      "Phloem",
+      "Meristem"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Cooling the body",
+      "Blocking pores"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplasts",
+      "Golgi body"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Node",
+      "Synapse",
+      "Axon"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Amino acids",
+      "Fatty acids",
+      "Nucleotides with bases A, T, C, G",
+      "Monosaccharides"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Photosynthesis",
+      "Condensation",
+      "Respiration",
+      "Transpiration"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 168,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Training animals",
+      "Crossing two species naturally",
+      "Cloning only",
+      "Transferring a gene from one organism to another"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Ribosome",
+      "Nucleus",
+      "Chloroplast"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 170,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Artery",
+      "Vein",
+      "Capillary",
+      "Venule"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Cooling the body",
+      "Blocking pores"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 172,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Golgi body",
+      "Chloroplasts",
+      "Nucleus"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Node",
+      "Dendrite",
+      "Axon"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "50%",
+      "75%",
+      "25%",
+      "0%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "1%",
+      "10%",
+      "50%",
+      "90%"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 176,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Random traits",
+      "Desired characteristics",
+      "Rare diseases",
+      "Lowest yield"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Chloroplast",
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 178,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Amylase",
+      "Ligase",
+      "Protease",
+      "Lipase"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 179,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Killing all pathogens",
+      "Cooling the body",
+      "Stimulating memory cells",
+      "Blocking pores"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Chloroplasts",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 181,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Axon",
+      "Dendrite",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Two identical cells",
+      "One triploid cell",
+      "Four haploid non-identical gametes",
+      "Diploid clones"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "Unchanged",
+      "More stable",
+      "More polluted",
+      "Less stable"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "All offspring survive",
+      "Differential survival and reproduction",
+      "No variation",
+      "Random survival only"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Chloroplast",
+      "Ribosome",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 186,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Epidermis",
+      "Meristem",
+      "Phloem",
+      "Xylem"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 187,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Killing all pathogens",
+      "Blocking pores",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 188,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Chloroplasts",
+      "Golgi body",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Dendrite",
+      "Synapse",
+      "Node"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 190,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Nucleotides with bases A, T, C, G",
+      "Fatty acids",
+      "Monosaccharides",
+      "Amino acids"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 191,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Condensation",
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Cloning only",
+      "Crossing two species naturally",
+      "Training animals",
+      "Transferring a gene from one organism to another"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 193,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Chloroplast",
+      "Mitochondria",
+      "Ribosome",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Venule",
+      "Capillary",
+      "Artery",
+      "Vein"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 195,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Blocking pores",
+      "Killing all pathogens",
+      "Stimulating memory cells",
+      "Cooling the body"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Nucleus",
+      "Mitochondria",
+      "Chloroplasts"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Synapse",
+      "Axon",
+      "Node"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "50%",
+      "0%",
+      "25%",
+      "75%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "50%",
+      "1%",
+      "10%",
+      "90%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Desired characteristics",
+      "Random traits",
+      "Lowest yield",
+      "Rare diseases"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 201,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Ligase",
+      "Amylase",
+      "Lipase",
+      "Protease"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Blocking pores",
+      "Killing all pathogens",
+      "Stimulating memory cells",
+      "Cooling the body"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Mitochondria",
+      "Nucleus",
+      "Golgi body"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Dendrite",
+      "Axon",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 206,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Diploid clones",
+      "Two identical cells",
+      "One triploid cell",
+      "Four haploid non-identical gametes"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More stable",
+      "More polluted",
+      "Less stable",
+      "Unchanged"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "All offspring survive",
+      "Random survival only",
+      "No variation",
+      "Differential survival and reproduction"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 210,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Phloem",
+      "Epidermis",
+      "Meristem",
+      "Xylem"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 211,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Killing all pathogens",
+      "Blocking pores",
+      "Cooling the body",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Chloroplasts",
+      "Mitochondria",
+      "Golgi body"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 213,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Synapse",
+      "Dendrite",
+      "Node"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Nucleotides with bases A, T, C, G",
+      "Fatty acids",
+      "Amino acids",
+      "Monosaccharides"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Photosynthesis",
+      "Transpiration",
+      "Respiration",
+      "Condensation"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Cloning only",
+      "Crossing two species naturally",
+      "Transferring a gene from one organism to another",
+      "Training animals"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplast"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 218,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Capillary",
+      "Venule",
+      "Vein",
+      "Artery"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 219,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Cooling the body",
+      "Killing all pathogens",
+      "Blocking pores"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 220,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Mitochondria",
+      "Chloroplasts",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 221,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Axon",
+      "Synapse",
+      "Dendrite"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "75%",
+      "0%",
+      "50%",
+      "25%"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 223,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "90%",
+      "10%",
+      "50%",
+      "1%"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Rare diseases",
+      "Lowest yield",
+      "Desired characteristics",
+      "Random traits"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 225,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Chloroplast",
+      "Ribosome",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Ligase",
+      "Amylase",
+      "Protease",
+      "Lipase"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Blocking pores",
+      "Cooling the body"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 228,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Chloroplasts",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 229,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Synapse",
+      "Axon",
+      "Dendrite"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 230,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Four haploid non-identical gametes",
+      "Two identical cells",
+      "One triploid cell",
+      "Diploid clones"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More stable",
+      "More polluted",
+      "Unchanged",
+      "Less stable"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "Differential survival and reproduction",
+      "All offspring survive",
+      "No variation",
+      "Random survival only"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 233,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Epidermis",
+      "Xylem",
+      "Phloem",
+      "Meristem"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Killing all pathogens",
+      "Blocking pores",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Golgi body",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 237,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Axon",
+      "Dendrite",
+      "Node"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Nucleotides with bases A, T, C, G",
+      "Monosaccharides",
+      "Fatty acids",
+      "Amino acids"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Transpiration",
+      "Photosynthesis",
+      "Condensation",
+      "Respiration"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Cloning only",
+      "Transferring a gene from one organism to another",
+      "Training animals",
+      "Crossing two species naturally"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Chloroplast",
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Capillary",
+      "Artery",
+      "Vein",
+      "Venule"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 243,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Nucleus",
+      "Golgi body"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Dendrite",
+      "Synapse",
+      "Axon"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "50%",
+      "75%",
+      "25%",
+      "0%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "50%",
+      "90%",
+      "10%",
+      "1%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Lowest yield",
+      "Rare diseases",
+      "Desired characteristics",
+      "Random traits"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplast"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Ligase",
+      "Amylase",
+      "Protease",
+      "Lipase"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 251,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Golgi body",
+      "Nucleus"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Axon",
+      "Node",
+      "Dendrite"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Four haploid non-identical gametes",
+      "Diploid clones",
+      "One triploid cell",
+      "Two identical cells"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More stable",
+      "Unchanged",
+      "More polluted",
+      "Less stable"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 256,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "All offspring survive",
+      "Random survival only",
+      "No variation",
+      "Differential survival and reproduction"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Epidermis",
+      "Phloem",
+      "Meristem",
+      "Xylem"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 259,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Blocking pores",
+      "Stimulating memory cells",
+      "Killing all pathogens"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Mitochondria",
+      "Chloroplasts",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Synapse",
+      "Axon",
+      "Dendrite"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Monosaccharides",
+      "Fatty acids",
+      "Nucleotides with bases A, T, C, G",
+      "Amino acids"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 263,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Respiration",
+      "Transpiration",
+      "Condensation",
+      "Photosynthesis"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Training animals",
+      "Crossing two species naturally",
+      "Cloning only",
+      "Transferring a gene from one organism to another"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Venule",
+      "Vein",
+      "Artery",
+      "Capillary"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Blocking pores",
+      "Stimulating memory cells",
+      "Killing all pathogens"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Golgi body",
+      "Chloroplasts"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Dendrite",
+      "Node",
+      "Axon"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 270,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "75%",
+      "0%",
+      "25%",
+      "50%"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "50%",
+      "10%",
+      "90%",
+      "1%"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Lowest yield",
+      "Random traits",
+      "Rare diseases",
+      "Desired characteristics"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Protease",
+      "Ligase",
+      "Amylase",
+      "Lipase"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 275,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Killing all pathogens",
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Cooling the body"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Chloroplasts",
+      "Golgi body"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Node",
+      "Dendrite",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Diploid clones",
+      "Four haploid non-identical gametes",
+      "One triploid cell",
+      "Two identical cells"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 279,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More stable",
+      "Unchanged",
+      "Less stable",
+      "More polluted"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "Differential survival and reproduction",
+      "Random survival only",
+      "No variation",
+      "All offspring survive"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Meristem",
+      "Epidermis",
+      "Phloem",
+      "Xylem"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Cooling the body"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Chloroplasts",
+      "Golgi body",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Synapse",
+      "Node",
+      "Axon"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Nucleotides with bases A, T, C, G",
+      "Monosaccharides",
+      "Fatty acids",
+      "Amino acids"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 287,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Respiration",
+      "Condensation",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Training animals",
+      "Crossing two species naturally",
+      "Cloning only",
+      "Transferring a gene from one organism to another"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 289,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Venule",
+      "Artery",
+      "Capillary",
+      "Vein"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Cooling the body",
+      "Killing all pathogens",
+      "Blocking pores"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Mitochondria",
+      "Golgi body",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Node",
+      "Dendrite",
+      "Axon"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 294,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "0%",
+      "75%",
+      "50%",
+      "25%"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "50%",
+      "90%",
+      "10%",
+      "1%"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 296,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Lowest yield",
+      "Rare diseases",
+      "Desired characteristics",
+      "Random traits"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Amylase",
+      "Ligase",
+      "Lipase",
+      "Protease"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Killing all pathogens",
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Cooling the body"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Nucleus",
+      "Golgi body",
+      "Chloroplasts"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 301,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Synapse",
+      "Node",
+      "Dendrite"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "One triploid cell",
+      "Four haploid non-identical gametes",
+      "Two identical cells",
+      "Diploid clones"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "Unchanged",
+      "Less stable",
+      "More stable",
+      "More polluted"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 304,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "All offspring survive",
+      "No variation",
+      "Random survival only",
+      "Differential survival and reproduction"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 305,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 306,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Xylem",
+      "Phloem",
+      "Meristem",
+      "Epidermis"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 307,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Killing all pathogens",
+      "Blocking pores",
+      "Cooling the body",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Chloroplasts",
+      "Mitochondria",
+      "Golgi body"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 309,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Node",
+      "Axon",
+      "Dendrite"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 310,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Amino acids",
+      "Nucleotides with bases A, T, C, G",
+      "Fatty acids",
+      "Monosaccharides"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Respiration",
+      "Condensation",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Crossing two species naturally",
+      "Training animals",
+      "Transferring a gene from one organism to another",
+      "Cloning only"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Chloroplast",
+      "Ribosome"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 314,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Venule",
+      "Vein",
+      "Capillary",
+      "Artery"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Cooling the body",
+      "Blocking pores"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Mitochondria",
+      "Golgi body",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Synapse",
+      "Dendrite",
+      "Node"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "0%",
+      "25%",
+      "75%",
+      "50%"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "10%",
+      "1%",
+      "90%",
+      "50%"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Desired characteristics",
+      "Random traits",
+      "Lowest yield",
+      "Rare diseases"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 321,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 322,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Protease",
+      "Ligase",
+      "Lipase",
+      "Amylase"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Cooling the body",
+      "Killing all pathogens"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Chloroplasts",
+      "Golgi body",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Node",
+      "Dendrite",
+      "Synapse",
+      "Axon"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "One triploid cell",
+      "Diploid clones",
+      "Two identical cells",
+      "Four haploid non-identical gametes"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "Unchanged",
+      "More stable",
+      "More polluted",
+      "Less stable"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "Differential survival and reproduction",
+      "Random survival only",
+      "No variation",
+      "All offspring survive"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Xylem",
+      "Epidermis",
+      "Phloem",
+      "Meristem"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 331,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Blocking pores",
+      "Stimulating memory cells",
+      "Killing all pathogens",
+      "Cooling the body"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 332,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Chloroplasts",
+      "Golgi body",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 333,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Node",
+      "Dendrite",
+      "Axon"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 334,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Monosaccharides",
+      "Amino acids",
+      "Nucleotides with bases A, T, C, G",
+      "Fatty acids"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Condensation",
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Cloning only",
+      "Transferring a gene from one organism to another",
+      "Training animals",
+      "Crossing two species naturally"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Artery",
+      "Capillary",
+      "Venule",
+      "Vein"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Cooling the body"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 340,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Golgi body",
+      "Chloroplasts"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Axon",
+      "Dendrite",
+      "Node"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 342,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "75%",
+      "0%",
+      "50%",
+      "25%"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "10%",
+      "50%",
+      "90%",
+      "1%"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Rare diseases",
+      "Lowest yield",
+      "Random traits",
+      "Desired characteristics"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 346,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Amylase",
+      "Ligase",
+      "Lipase",
+      "Protease"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Cooling the body",
+      "Killing all pathogens",
+      "Blocking pores"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Golgi body",
+      "Nucleus",
+      "Chloroplasts"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 349,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Node",
+      "Synapse",
+      "Dendrite"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Four haploid non-identical gametes",
+      "Diploid clones",
+      "Two identical cells",
+      "One triploid cell"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 351,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More polluted",
+      "More stable",
+      "Less stable",
+      "Unchanged"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 352,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "Differential survival and reproduction",
+      "No variation",
+      "Random survival only",
+      "All offspring survive"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 354,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Xylem",
+      "Phloem",
+      "Meristem",
+      "Epidermis"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Killing all pathogens",
+      "Blocking pores",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Nucleus",
+      "Chloroplasts",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Node",
+      "Dendrite",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Nucleotides with bases A, T, C, G",
+      "Fatty acids",
+      "Amino acids",
+      "Monosaccharides"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 359,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Condensation",
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 360,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Crossing two species naturally",
+      "Transferring a gene from one organism to another",
+      "Cloning only",
+      "Training animals"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Vein",
+      "Artery",
+      "Capillary",
+      "Venule"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Killing all pathogens",
+      "Blocking pores",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 364,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Chloroplasts",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 365,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Node",
+      "Synapse",
+      "Axon"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "50%",
+      "25%",
+      "75%",
+      "0%"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 367,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "10%",
+      "1%",
+      "50%",
+      "90%"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 368,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Lowest yield",
+      "Desired characteristics",
+      "Rare diseases",
+      "Random traits"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Nucleus",
+      "Chloroplast",
+      "Ribosome",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 370,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Protease",
+      "Ligase",
+      "Amylase",
+      "Lipase"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Cooling the body"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Golgi body",
+      "Chloroplasts",
+      "Nucleus"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 373,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Axon",
+      "Node",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 374,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "One triploid cell",
+      "Two identical cells",
+      "Diploid clones",
+      "Four haploid non-identical gametes"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 375,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "Less stable",
+      "More polluted",
+      "More stable",
+      "Unchanged"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "Random survival only",
+      "Differential survival and reproduction",
+      "All offspring survive",
+      "No variation"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Meristem",
+      "Xylem",
+      "Epidermis",
+      "Phloem"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Killing all pathogens",
+      "Blocking pores",
+      "Stimulating memory cells",
+      "Cooling the body"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Golgi body",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Node",
+      "Dendrite",
+      "Synapse"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 382,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Amino acids",
+      "Fatty acids",
+      "Monosaccharides",
+      "Nucleotides with bases A, T, C, G"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 383,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Condensation",
+      "Transpiration",
+      "Respiration",
+      "Photosynthesis"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Training animals",
+      "Cloning only",
+      "Crossing two species naturally",
+      "Transferring a gene from one organism to another"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 385,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast",
+      "Nucleus"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Capillary",
+      "Vein",
+      "Artery",
+      "Venule"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 387,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 388,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Chloroplasts",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Dendrite",
+      "Node",
+      "Synapse",
+      "Axon"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "50%",
+      "0%",
+      "25%",
+      "75%"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 391,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "50%",
+      "1%",
+      "90%",
+      "10%"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 392,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Rare diseases",
+      "Desired characteristics",
+      "Lowest yield",
+      "Random traits"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 393,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplast",
+      "Ribosome"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 394,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Ligase",
+      "Lipase",
+      "Protease",
+      "Amylase"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Blocking pores",
+      "Stimulating memory cells",
+      "Killing all pathogens"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplasts"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Synapse",
+      "Node",
+      "Dendrite"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Mitosis & Meiosis",
+    "question": "Meiosis produces:",
+    "choices": [
+      "Two identical cells",
+      "Diploid clones",
+      "One triploid cell",
+      "Four haploid non-identical gametes"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 399,
+    "topic": "Ecology",
+    "subtopic": "Biodiversity & Pollution",
+    "question": "High biodiversity generally makes ecosystems:",
+    "choices": [
+      "More polluted",
+      "More stable",
+      "Unchanged",
+      "Less stable"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 400,
+    "topic": "Evolution",
+    "subtopic": "Natural Selection",
+    "question": "Natural selection involves:",
+    "choices": [
+      "Differential survival and reproduction",
+      "No variation",
+      "All offspring survive",
+      "Random survival only"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 402,
+    "topic": "Organisation",
+    "subtopic": "Plant Tissues",
+    "question": "Which tissue transports water in plants?",
+    "choices": [
+      "Xylem",
+      "Meristem",
+      "Epidermis",
+      "Phloem"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 403,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Killing all pathogens",
+      "Blocking pores",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 404,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Golgi body",
+      "Nucleus",
+      "Chloroplasts",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Synapse",
+      "Axon",
+      "Node",
+      "Dendrite"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 406,
+    "topic": "Inheritance & Variation",
+    "subtopic": "DNA & Genes",
+    "question": "DNA is made of:",
+    "choices": [
+      "Nucleotides with bases A, T, C, G",
+      "Amino acids",
+      "Fatty acids",
+      "Monosaccharides"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 407,
+    "topic": "Ecology",
+    "subtopic": "Cycles (Carbon/Water)",
+    "question": "Which process releases CO2 to the atmosphere?",
+    "choices": [
+      "Respiration",
+      "Transpiration",
+      "Condensation",
+      "Photosynthesis"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "topic": "Evolution",
+    "subtopic": "Genetic Engineering",
+    "question": "Genetic engineering involves:",
+    "choices": [
+      "Training animals",
+      "Transferring a gene from one organism to another",
+      "Crossing two species naturally",
+      "Cloning only"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 409,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 410,
+    "topic": "Organisation",
+    "subtopic": "Circulatory System",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "choices": [
+      "Capillary",
+      "Venule",
+      "Vein",
+      "Artery"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 411,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Cooling the body",
+      "Blocking pores",
+      "Killing all pathogens",
+      "Stimulating memory cells"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 412,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Golgi body",
+      "Nucleus"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "topic": "Homeostasis",
+    "subtopic": "Nervous System",
+    "question": "Gap between neurons is called:",
+    "choices": [
+      "Axon",
+      "Node",
+      "Synapse",
+      "Dendrite"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 414,
+    "topic": "Inheritance & Variation",
+    "subtopic": "Monohybrid Inheritance",
+    "question": "A heterozygous cross (Aa × Aa) gives recessive phenotype probability:",
+    "choices": [
+      "75%",
+      "25%",
+      "50%",
+      "0%"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 415,
+    "topic": "Ecology",
+    "subtopic": "Food Chains",
+    "question": "In a food chain, energy transfer between trophic levels is often about:",
+    "choices": [
+      "50%",
+      "1%",
+      "10%",
+      "90%"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 416,
+    "topic": "Evolution",
+    "subtopic": "Selective Breeding",
+    "question": "Selective breeding selects organisms with:",
+    "choices": [
+      "Desired characteristics",
+      "Random traits",
+      "Rare diseases",
+      "Lowest yield"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 417,
+    "topic": "Cell Biology",
+    "subtopic": "Cell Structure",
+    "question": "Which organelle is the site of aerobic respiration?",
+    "choices": [
+      "Mitochondria",
+      "Chloroplast",
+      "Ribosome",
+      "Nucleus"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "topic": "Organisation",
+    "subtopic": "Digestive System",
+    "question": "Which enzyme breaks down starch?",
+    "choices": [
+      "Amylase",
+      "Lipase",
+      "Protease",
+      "Ligase"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "topic": "Infection & Response",
+    "subtopic": "Vaccination",
+    "question": "Vaccination works by:",
+    "choices": [
+      "Stimulating memory cells",
+      "Cooling the body",
+      "Blocking pores",
+      "Killing all pathogens"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 420,
+    "topic": "Bioenergetics",
+    "subtopic": "Respiration",
+    "question": "Aerobic respiration releases energy in:",
+    "choices": [
+      "Chloroplasts",
+      "Golgi body",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  }
+]

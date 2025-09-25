@@ -1,0 +1,5882 @@
+[
+  {
+    "id": 1,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "V = IR",
+      "F = ma",
+      "W = mg",
+      "p = mv"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Acceleration",
+      "Distance",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 763 W and useful output 73 W. Efficiency (%)?",
+    "choices": [
+      "4.8%",
+      "90.4%",
+      "9.6%",
+      "19.2%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = V/I",
+      "P = VI",
+      "P = V + I",
+      "P = I/V"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Infrared",
+      "Microwaves",
+      "Gamma rays",
+      "Radio waves"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Vacuum",
+      "Static field only",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Stationary in liquids",
+      "Closely packed and vibrate",
+      "Ionised"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for atoms to vanish",
+      "Time for mass to double"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Rotating around Earth",
+      "Contracting",
+      "Static"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 10 N/kg, what is the weight of a mass of 31 kg?",
+    "choices": [
+      "62 N",
+      "310 N",
+      "155 N",
+      "31 N"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Acceleration",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 1856 J energy is transferred in 181 s, power is?",
+    "choices": [
+      "0.09752155172413793 W",
+      "335936 W",
+      "2037 W",
+      "10.25 W"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "Zero at the bulb",
+      "Largest at the battery",
+      "The same everywhere",
+      "Only at switches"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Infrared",
+      "Gamma rays",
+      "Microwaves"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Electric field",
+      "Magnetic field",
+      "Static field only"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Stationary in liquids",
+      "Closely packed and vibrate",
+      "Ionised"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Energy to start decay",
+      "Time for mass to double"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Rotating around Earth",
+      "Static",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 4 kg object moves at 22 m/s. What is its momentum?",
+    "choices": [
+      "88 N",
+      "176 kg m/s",
+      "88 kg m/s",
+      "26 kg m/s"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Acceleration",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Gravitational",
+      "Kinetic",
+      "Electric current",
+      "Chemical"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 6 Ω has V = 17 V. Current I? (Ohm's law)",
+    "choices": [
+      "23 A",
+      "0.35294117647058826 A",
+      "102 A",
+      "2.83 A"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Gamma rays",
+      "Microwaves",
+      "Infrared"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Electric field",
+      "Magnetic field",
+      "Static field only"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Far apart and random",
+      "Stationary in liquids",
+      "Ionised"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Rotating around Earth",
+      "Contracting",
+      "Static"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 19 N right, 10 N left. Resultant is?",
+    "choices": [
+      "9 N right",
+      "29 N right",
+      "-9 N left",
+      "29 N left"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Acceleration",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 50 N moves a box 8 m. Work done?",
+    "choices": [
+      "400 W",
+      "42 J",
+      "58 J",
+      "400 J"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Sum of all resistors",
+      "Less than the smallest branch resistor",
+      "Equal to the largest resistor",
+      "Equal to average"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Infrared",
+      "Microwaves",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Electric field",
+      "Magnetic field",
+      "Static field only"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Ionised",
+      "Stationary in liquids",
+      "Far apart and random"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Time for mass to double",
+      "Energy to start decay"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Expanding",
+      "Rotating around Earth",
+      "Static"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "p = mv",
+      "V = IR",
+      "W = mg",
+      "F = ma"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Speed",
+      "Time",
+      "Distance"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 573 W and useful output 370 W. Efficiency (%)?",
+    "choices": [
+      "32.3%",
+      "35.400000000000006%",
+      "64.6%",
+      "129.2%"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = I/V",
+      "P = V + I",
+      "P = V/I",
+      "P = VI"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Infrared",
+      "Gamma rays",
+      "Microwaves",
+      "Radio waves"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Static field only",
+      "Magnetic field",
+      "Electric field"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Ionised",
+      "Stationary in liquids"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for mass to double",
+      "Time for activity to halve",
+      "Time for atoms to vanish"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Rotating around Earth",
+      "Static",
+      "Contracting"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 10 N/kg, what is the weight of a mass of 18 kg?",
+    "choices": [
+      "90 N",
+      "36 N",
+      "180 N",
+      "18 N"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Distance",
+      "Speed",
+      "Time",
+      "Acceleration"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 103 J energy is transferred in 113 s, power is?",
+    "choices": [
+      "216 W",
+      "11639 W",
+      "0.91 W",
+      "1.0970873786407767 W"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "The same everywhere",
+      "Only at switches",
+      "Zero at the bulb",
+      "Largest at the battery"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Microwaves",
+      "Infrared",
+      "Radio waves"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Static field only",
+      "Vacuum",
+      "Electric field"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Ionised"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Energy to start decay"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Contracting",
+      "Static",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 17 kg object moves at 26 m/s. What is its momentum?",
+    "choices": [
+      "442 N",
+      "442 kg m/s",
+      "43 kg m/s",
+      "884 kg m/s"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Time",
+      "Speed",
+      "Distance"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Kinetic",
+      "Chemical",
+      "Gravitational",
+      "Electric current"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 8 Ω has V = 11 V. Current I? (Ohm's law)",
+    "choices": [
+      "88 A",
+      "0.7272727272727273 A",
+      "1.38 A",
+      "19 A"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Infrared",
+      "Gamma rays",
+      "Microwaves"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 60,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Static field only",
+      "Electric field",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Stationary in liquids",
+      "Closely packed and vibrate",
+      "Ionised"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Time for atoms to vanish",
+      "Energy to start decay",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Static",
+      "Rotating around Earth",
+      "Contracting",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 20 N right, 8 N left. Resultant is?",
+    "choices": [
+      "12 N right",
+      "-12 N left",
+      "28 N right",
+      "28 N left"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Acceleration",
+      "Speed",
+      "Distance"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 66,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 73 N moves a box 13 m. Work done?",
+    "choices": [
+      "86 J",
+      "60 J",
+      "949 J",
+      "949 W"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Less than the smallest branch resistor",
+      "Equal to the largest resistor",
+      "Sum of all resistors",
+      "Equal to average"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Radio waves",
+      "Gamma rays",
+      "Infrared"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Electric field",
+      "Magnetic field",
+      "Static field only"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Ionised"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for atoms to vanish"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Rotating around Earth",
+      "Static",
+      "Contracting"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "V = IR",
+      "p = mv",
+      "W = mg",
+      "F = ma"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Distance",
+      "Time",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 232 W and useful output 209 W. Efficiency (%)?",
+    "choices": [
+      "45.05%",
+      "9.900000000000006%",
+      "180.2%",
+      "90.1%"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = V + I",
+      "P = V/I",
+      "P = VI",
+      "P = I/V"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Radio waves",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Static field only",
+      "Electric field",
+      "Magnetic field",
+      "Vacuum"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Ionised",
+      "Closely packed and vibrate",
+      "Far apart and random"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Rotating around Earth",
+      "Static",
+      "Contracting"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 10 N/kg, what is the weight of a mass of 9 kg?",
+    "choices": [
+      "90 N",
+      "18 N",
+      "45 N",
+      "9 N"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Acceleration",
+      "Distance",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 142 J energy is transferred in 55 s, power is?",
+    "choices": [
+      "197 W",
+      "7810 W",
+      "0.3873239436619718 W",
+      "2.58 W"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 85,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "Largest at the battery",
+      "The same everywhere",
+      "Only at switches",
+      "Zero at the bulb"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Gamma rays",
+      "Radio waves"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Magnetic field",
+      "Electric field",
+      "Static field only"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Ionised",
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Far apart and random"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for atoms to vanish"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Static",
+      "Expanding",
+      "Rotating around Earth"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 36 kg object moves at 1 m/s. What is its momentum?",
+    "choices": [
+      "37 kg m/s",
+      "36 kg m/s",
+      "36 N",
+      "72 kg m/s"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Distance",
+      "Time",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Kinetic",
+      "Chemical",
+      "Gravitational",
+      "Electric current"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 4 Ω has V = 4 V. Current I? (Ohm's law)",
+    "choices": [
+      "16 A",
+      "8 A",
+      "Option 4",
+      "1.0 A"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Gamma rays",
+      "Infrared",
+      "Microwaves"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Static field only",
+      "Vacuum",
+      "Electric field"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Ionised",
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Far apart and random"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for mass to double"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Static",
+      "Expanding",
+      "Rotating around Earth",
+      "Contracting"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 28 N right, 12 N left. Resultant is?",
+    "choices": [
+      "40 N right",
+      "40 N left",
+      "-16 N left",
+      "16 N right"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Time",
+      "Distance",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 54 N moves a box 13 m. Work done?",
+    "choices": [
+      "67 J",
+      "702 W",
+      "41 J",
+      "702 J"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Less than the smallest branch resistor",
+      "Equal to the largest resistor",
+      "Sum of all resistors",
+      "Equal to average"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 104,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Infrared",
+      "Microwaves",
+      "Radio waves"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Static field only",
+      "Magnetic field",
+      "Vacuum",
+      "Electric field"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Ionised",
+      "Stationary in liquids"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Time for mass to double"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Contracting",
+      "Static",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 109,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "W = mg",
+      "V = IR",
+      "F = ma",
+      "p = mv"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Time",
+      "Speed",
+      "Distance"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 217 W and useful output 201 W. Efficiency (%)?",
+    "choices": [
+      "46.3%",
+      "7.400000000000006%",
+      "92.6%",
+      "185.2%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = V/I",
+      "P = V + I",
+      "P = VI",
+      "P = I/V"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Radio waves",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 114,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Static field only",
+      "Electric field",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Ionised",
+      "Closely packed and vibrate",
+      "Far apart and random"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Energy to start decay"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Static",
+      "Contracting",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 10 N/kg, what is the weight of a mass of 65 kg?",
+    "choices": [
+      "65 N",
+      "325 N",
+      "650 N",
+      "130 N"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 119,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Distance",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 120,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 1582 J energy is transferred in 195 s, power is?",
+    "choices": [
+      "8.11 W",
+      "0.12326169405815424 W",
+      "1777 W",
+      "308490 W"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "Largest at the battery",
+      "Only at switches",
+      "The same everywhere",
+      "Zero at the bulb"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Gamma rays",
+      "Infrared",
+      "Radio waves"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Electric field",
+      "Vacuum",
+      "Static field only"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Closely packed and vibrate",
+      "Ionised",
+      "Far apart and random"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Time for mass to double",
+      "Energy to start decay"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Contracting",
+      "Static",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 37 kg object moves at 6 m/s. What is its momentum?",
+    "choices": [
+      "43 kg m/s",
+      "222 N",
+      "444 kg m/s",
+      "222 kg m/s"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Acceleration",
+      "Distance",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Chemical",
+      "Kinetic",
+      "Gravitational",
+      "Electric current"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 8 Ω has V = 18 V. Current I? (Ohm's law)",
+    "choices": [
+      "26 A",
+      "0.4444444444444444 A",
+      "2.25 A",
+      "144 A"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 131,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Gamma rays",
+      "Infrared",
+      "Microwaves"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Electric field",
+      "Static field only",
+      "Vacuum"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Ionised"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Time for activity to halve",
+      "Time for atoms to vanish",
+      "Energy to start decay"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Contracting",
+      "Static",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 24 N right, 12 N left. Resultant is?",
+    "choices": [
+      "36 N left",
+      "36 N right",
+      "-12 N left",
+      "12 N right"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Distance",
+      "Speed",
+      "Acceleration",
+      "Time"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 51 N moves a box 19 m. Work done?",
+    "choices": [
+      "70 J",
+      "969 W",
+      "32 J",
+      "969 J"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Sum of all resistors",
+      "Less than the smallest branch resistor",
+      "Equal to the largest resistor",
+      "Equal to average"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 140,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Infrared",
+      "Radio waves",
+      "Microwaves"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Electric field",
+      "Vacuum",
+      "Static field only"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Far apart and random",
+      "Ionised"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for activity to halve",
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for mass to double"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Static",
+      "Contracting",
+      "Rotating around Earth",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "p = mv",
+      "V = IR",
+      "W = mg",
+      "F = ma"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Speed",
+      "Acceleration",
+      "Distance"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 519 W and useful output 451 W. Efficiency (%)?",
+    "choices": [
+      "173.8%",
+      "13.099999999999994%",
+      "86.9%",
+      "43.45%"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = VI",
+      "P = V/I",
+      "P = V + I",
+      "P = I/V"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Gamma rays",
+      "Microwaves",
+      "Infrared"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Magnetic field",
+      "Electric field",
+      "Static field only"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Stationary in liquids",
+      "Ionised",
+      "Closely packed and vibrate"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for activity to halve",
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for mass to double"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Contracting",
+      "Static",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 10 N/kg, what is the weight of a mass of 16 kg?",
+    "choices": [
+      "16 N",
+      "80 N",
+      "32 N",
+      "160 N"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 155,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Time",
+      "Acceleration"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 156,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 1582 J energy is transferred in 107 s, power is?",
+    "choices": [
+      "14.79 W",
+      "0.06763590391908976 W",
+      "1689 W",
+      "169274 W"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "Largest at the battery",
+      "Zero at the bulb",
+      "The same everywhere",
+      "Only at switches"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Gamma rays",
+      "Infrared",
+      "Radio waves"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Static field only",
+      "Vacuum",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Ionised",
+      "Stationary in liquids"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Energy to start decay"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Static",
+      "Expanding",
+      "Rotating around Earth"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 35 kg object moves at 6 m/s. What is its momentum?",
+    "choices": [
+      "41 kg m/s",
+      "210 N",
+      "210 kg m/s",
+      "420 kg m/s"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Time",
+      "Acceleration"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Electric current",
+      "Gravitational",
+      "Chemical",
+      "Kinetic"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 2 Ω has V = 21 V. Current I? (Ohm's law)",
+    "choices": [
+      "0.09523809523809523 A",
+      "23 A",
+      "42 A",
+      "10.5 A"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 167,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Radio waves",
+      "Infrared",
+      "Microwaves"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Magnetic field",
+      "Static field only",
+      "Vacuum"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Far apart and random",
+      "Ionised",
+      "Stationary in liquids"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for mass to double",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Static",
+      "Expanding",
+      "Contracting"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 7 N right, 1 N left. Resultant is?",
+    "choices": [
+      "6 N right",
+      "-6 N left",
+      "8 N left",
+      "8 N right"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Acceleration",
+      "Distance",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 174,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 31 N moves a box 14 m. Work done?",
+    "choices": [
+      "45 J",
+      "17 J",
+      "434 J",
+      "434 W"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Less than the smallest branch resistor",
+      "Sum of all resistors",
+      "Equal to the largest resistor",
+      "Equal to average"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 176,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Radio waves",
+      "Infrared",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Vacuum",
+      "Magnetic field",
+      "Static field only"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Ionised",
+      "Far apart and random",
+      "Closely packed and vibrate"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for activity to halve",
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for mass to double"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Static",
+      "Contracting",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "F = ma",
+      "V = IR",
+      "p = mv",
+      "W = mg"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 182,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Speed",
+      "Time",
+      "Distance"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 770 W and useful output 235 W. Efficiency (%)?",
+    "choices": [
+      "61.0%",
+      "69.5%",
+      "30.5%",
+      "15.25%"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = I/V",
+      "P = V + I",
+      "P = VI",
+      "P = V/I"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Infrared",
+      "Microwaves",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 186,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Static field only",
+      "Vacuum",
+      "Electric field"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Ionised",
+      "Stationary in liquids",
+      "Far apart and random"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Rotating around Earth",
+      "Expanding",
+      "Static"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 10 N/kg, what is the weight of a mass of 63 kg?",
+    "choices": [
+      "63 N",
+      "315 N",
+      "126 N",
+      "630 N"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 191,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Time",
+      "Acceleration"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 1953 J energy is transferred in 67 s, power is?",
+    "choices": [
+      "130851 W",
+      "0.03430619559651818 W",
+      "2020 W",
+      "29.15 W"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 193,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "The same everywhere",
+      "Only at switches",
+      "Zero at the bulb",
+      "Largest at the battery"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 194,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Microwaves",
+      "Gamma rays",
+      "Infrared"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Static field only",
+      "Magnetic field",
+      "Vacuum",
+      "Electric field"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Ionised",
+      "Far apart and random",
+      "Closely packed and vibrate"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for mass to double",
+      "Time for atoms to vanish",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 198,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Static",
+      "Expanding",
+      "Contracting",
+      "Rotating around Earth"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 2 kg object moves at 25 m/s. What is its momentum?",
+    "choices": [
+      "50 N",
+      "100 kg m/s",
+      "50 kg m/s",
+      "27 kg m/s"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Acceleration",
+      "Distance",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Electric current",
+      "Chemical",
+      "Gravitational",
+      "Kinetic"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 2 Ω has V = 19 V. Current I? (Ohm's law)",
+    "choices": [
+      "38 A",
+      "21 A",
+      "9.5 A",
+      "0.10526315789473684 A"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Microwaves",
+      "Infrared",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Electric field",
+      "Vacuum",
+      "Static field only"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Ionised"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 206,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for mass to double",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 207,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Expanding",
+      "Contracting",
+      "Static"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 208,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 21 N right, 19 N left. Resultant is?",
+    "choices": [
+      "2 N right",
+      "40 N left",
+      "40 N right",
+      "-2 N left"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 209,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Acceleration",
+      "Distance",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 77 N moves a box 9 m. Work done?",
+    "choices": [
+      "68 J",
+      "86 J",
+      "693 W",
+      "693 J"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 211,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Equal to average",
+      "Less than the smallest branch resistor",
+      "Equal to the largest resistor",
+      "Sum of all resistors"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Infrared",
+      "Gamma rays",
+      "Radio waves",
+      "Microwaves"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Static field only",
+      "Vacuum",
+      "Electric field",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Ionised",
+      "Stationary in liquids"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 215,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Rotating around Earth",
+      "Static",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "W = mg",
+      "V = IR",
+      "F = ma",
+      "p = mv"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 218,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Speed",
+      "Time",
+      "Distance"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 259 W and useful output 246 W. Efficiency (%)?",
+    "choices": [
+      "190.0%",
+      "47.5%",
+      "95.0%",
+      "5.0%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = V + I",
+      "P = I/V",
+      "P = VI",
+      "P = V/I"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 221,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Infrared",
+      "Gamma rays",
+      "Radio waves",
+      "Microwaves"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 222,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Magnetic field",
+      "Electric field",
+      "Static field only"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 223,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Ionised",
+      "Stationary in liquids",
+      "Closely packed and vibrate",
+      "Far apart and random"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Energy to start decay"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 225,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Static",
+      "Expanding",
+      "Rotating around Earth",
+      "Contracting"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 9.8 N/kg, what is the weight of a mass of 24 kg?",
+    "choices": [
+      "235.2 N",
+      "24 N",
+      "120 N",
+      "48 N"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Distance",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 1560 J energy is transferred in 163 s, power is?",
+    "choices": [
+      "9.57 W",
+      "0.10448717948717949 W",
+      "1723 W",
+      "254280 W"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 229,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "Largest at the battery",
+      "Only at switches",
+      "The same everywhere",
+      "Zero at the bulb"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 230,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Gamma rays",
+      "Radio waves"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Vacuum",
+      "Static field only",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Closely packed and vibrate",
+      "Ionised",
+      "Far apart and random"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for atoms to vanish"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Rotating around Earth",
+      "Contracting",
+      "Static"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 5 kg object moves at 29 m/s. What is its momentum?",
+    "choices": [
+      "145 kg m/s",
+      "34 kg m/s",
+      "290 kg m/s",
+      "145 N"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Acceleration",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 237,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Chemical",
+      "Electric current",
+      "Gravitational",
+      "Kinetic"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 8 Ω has V = 13 V. Current I? (Ohm's law)",
+    "choices": [
+      "21 A",
+      "104 A",
+      "0.6153846153846154 A",
+      "1.62 A"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 239,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Microwaves",
+      "Gamma rays",
+      "Infrared"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Static field only",
+      "Magnetic field",
+      "Vacuum",
+      "Electric field"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Ionised",
+      "Closely packed and vibrate",
+      "Far apart and random"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 242,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for atoms to vanish"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Expanding",
+      "Rotating around Earth",
+      "Static"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 10 N right, 3 N left. Resultant is?",
+    "choices": [
+      "7 N right",
+      "-7 N left",
+      "13 N left",
+      "13 N right"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Time",
+      "Speed",
+      "Distance"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 89 N moves a box 16 m. Work done?",
+    "choices": [
+      "1424 J",
+      "1424 W",
+      "105 J",
+      "73 J"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 247,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Sum of all resistors",
+      "Less than the smallest branch resistor",
+      "Equal to average",
+      "Equal to the largest resistor"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 248,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Radio waves",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 249,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Magnetic field",
+      "Vacuum",
+      "Static field only"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Ionised",
+      "Far apart and random",
+      "Stationary in liquids"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Time for activity to halve",
+      "Time for atoms to vanish",
+      "Energy to start decay"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 252,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Rotating around Earth",
+      "Static",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "p = mv",
+      "V = IR",
+      "F = ma",
+      "W = mg"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 254,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Acceleration",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 372 W and useful output 112 W. Efficiency (%)?",
+    "choices": [
+      "30.1%",
+      "15.05%",
+      "69.9%",
+      "60.2%"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 256,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = V/I",
+      "P = V + I",
+      "P = VI",
+      "P = I/V"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Microwaves",
+      "Infrared",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Static field only",
+      "Magnetic field",
+      "Electric field",
+      "Vacuum"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Ionised",
+      "Far apart and random",
+      "Stationary in liquids"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for atoms to vanish",
+      "Time for mass to double"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Contracting",
+      "Rotating around Earth",
+      "Static"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 9.8 N/kg, what is the weight of a mass of 21 kg?",
+    "choices": [
+      "21 N",
+      "205.8 N",
+      "105 N",
+      "42 N"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Acceleration",
+      "Time",
+      "Distance"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 935 J energy is transferred in 117 s, power is?",
+    "choices": [
+      "0.12513368983957218 W",
+      "1052 W",
+      "7.99 W",
+      "109395 W"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "The same everywhere",
+      "Zero at the bulb",
+      "Only at switches",
+      "Largest at the battery"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Infrared",
+      "Gamma rays",
+      "Radio waves",
+      "Microwaves"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Static field only",
+      "Electric field",
+      "Magnetic field",
+      "Vacuum"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Stationary in liquids",
+      "Ionised",
+      "Closely packed and vibrate"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for atoms to vanish"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Contracting",
+      "Static",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 271,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 10 kg object moves at 28 m/s. What is its momentum?",
+    "choices": [
+      "280 kg m/s",
+      "280 N",
+      "38 kg m/s",
+      "560 kg m/s"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Acceleration",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 273,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Gravitational",
+      "Electric current",
+      "Chemical",
+      "Kinetic"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 8 Ω has V = 17 V. Current I? (Ohm's law)",
+    "choices": [
+      "25 A",
+      "2.12 A",
+      "0.47058823529411764 A",
+      "136 A"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 275,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Gamma rays",
+      "Radio waves"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Magnetic field",
+      "Static field only",
+      "Electric field"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Ionised"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for activity to halve",
+      "Energy to start decay",
+      "Time for mass to double",
+      "Time for atoms to vanish"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Contracting",
+      "Static",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 19 N right, 12 N left. Resultant is?",
+    "choices": [
+      "-7 N left",
+      "7 N right",
+      "31 N right",
+      "31 N left"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Time",
+      "Speed",
+      "Distance"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 20 N moves a box 11 m. Work done?",
+    "choices": [
+      "220 W",
+      "31 J",
+      "220 J",
+      "9 J"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Equal to the largest resistor",
+      "Equal to average",
+      "Less than the smallest branch resistor",
+      "Sum of all resistors"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Gamma rays",
+      "Radio waves"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Static field only",
+      "Magnetic field",
+      "Vacuum"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Ionised",
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Stationary in liquids"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Energy to start decay",
+      "Time for mass to double",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 288,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Static",
+      "Rotating around Earth",
+      "Expanding",
+      "Contracting"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 289,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "p = mv",
+      "F = ma",
+      "W = mg",
+      "V = IR"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Time",
+      "Distance",
+      "Acceleration"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 274 W and useful output 238 W. Efficiency (%)?",
+    "choices": [
+      "86.9%",
+      "13.099999999999994%",
+      "43.45%",
+      "173.8%"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = I/V",
+      "P = V/I",
+      "P = VI",
+      "P = V + I"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 293,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Gamma rays",
+      "Radio waves"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 294,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Static field only",
+      "Magnetic field",
+      "Electric field",
+      "Vacuum"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Ionised",
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Far apart and random"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for activity to halve",
+      "Time for atoms to vanish",
+      "Energy to start decay",
+      "Time for mass to double"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Expanding",
+      "Contracting",
+      "Static"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 10 N/kg, what is the weight of a mass of 71 kg?",
+    "choices": [
+      "710 N",
+      "355 N",
+      "142 N",
+      "71 N"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Distance",
+      "Acceleration",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 1056 J energy is transferred in 92 s, power is?",
+    "choices": [
+      "11.48 W",
+      "1148 W",
+      "0.08712121212121213 W",
+      "97152 W"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 301,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "The same everywhere",
+      "Largest at the battery",
+      "Only at switches",
+      "Zero at the bulb"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Radio waves",
+      "Infrared",
+      "Microwaves"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Electric field",
+      "Magnetic field",
+      "Static field only"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Ionised",
+      "Far apart and random",
+      "Closely packed and vibrate"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for activity to halve",
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for atoms to vanish"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 306,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Static",
+      "Expanding",
+      "Contracting"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 307,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 17 kg object moves at 26 m/s. What is its momentum?",
+    "choices": [
+      "884 kg m/s",
+      "442 kg m/s",
+      "43 kg m/s",
+      "442 N"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 308,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Time",
+      "Acceleration"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Electric current",
+      "Kinetic",
+      "Gravitational",
+      "Chemical"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 4 Ω has V = 8 V. Current I? (Ohm's law)",
+    "choices": [
+      "2.0 A",
+      "12 A",
+      "32 A",
+      "0.5 A"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Gamma rays",
+      "Microwaves",
+      "Infrared"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Magnetic field",
+      "Static field only",
+      "Electric field"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Ionised",
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Far apart and random"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 314,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for atoms to vanish"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Static",
+      "Contracting",
+      "Expanding",
+      "Rotating around Earth"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 6 N right, 12 N left. Resultant is?",
+    "choices": [
+      "18 N right",
+      "6 N left",
+      "18 N left",
+      "-6 N right"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Distance",
+      "Speed",
+      "Time",
+      "Acceleration"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 318,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 60 N moves a box 9 m. Work done?",
+    "choices": [
+      "69 J",
+      "540 W",
+      "540 J",
+      "51 J"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 319,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Less than the smallest branch resistor",
+      "Equal to average",
+      "Equal to the largest resistor",
+      "Sum of all resistors"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Radio waves",
+      "Microwaves",
+      "Infrared"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Electric field",
+      "Static field only",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 322,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Far apart and random",
+      "Ionised",
+      "Stationary in liquids"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 323,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 324,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Static",
+      "Rotating around Earth",
+      "Expanding",
+      "Contracting"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 325,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "p = mv",
+      "F = ma",
+      "V = IR",
+      "W = mg"
+    ],
+    "answer": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 326,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Speed",
+      "Acceleration",
+      "Distance"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 846 W and useful output 444 W. Efficiency (%)?",
+    "choices": [
+      "105.0%",
+      "26.25%",
+      "52.5%",
+      "47.5%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = V + I",
+      "P = V/I",
+      "P = I/V",
+      "P = VI"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 329,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Radio waves",
+      "Microwaves",
+      "Infrared"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Electric field",
+      "Vacuum",
+      "Static field only"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 331,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Stationary in liquids",
+      "Ionised",
+      "Closely packed and vibrate"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 332,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Time for mass to double",
+      "Time for activity to halve",
+      "Energy to start decay"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 333,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Static",
+      "Contracting",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 334,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 9.8 N/kg, what is the weight of a mass of 80 kg?",
+    "choices": [
+      "80 N",
+      "160 N",
+      "784.0 N",
+      "400 N"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Time",
+      "Distance",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 336,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 1980 J energy is transferred in 148 s, power is?",
+    "choices": [
+      "13.38 W",
+      "293040 W",
+      "0.07474747474747474 W",
+      "2128 W"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "Only at switches",
+      "The same everywhere",
+      "Largest at the battery",
+      "Zero at the bulb"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Radio waves",
+      "Microwaves",
+      "Infrared"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Electric field",
+      "Vacuum",
+      "Static field only"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Ionised"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 341,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for mass to double",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 342,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Static",
+      "Contracting",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 37 kg object moves at 24 m/s. What is its momentum?",
+    "choices": [
+      "888 N",
+      "61 kg m/s",
+      "1776 kg m/s",
+      "888 kg m/s"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 344,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Time",
+      "Speed",
+      "Distance"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 345,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Kinetic",
+      "Gravitational",
+      "Electric current",
+      "Chemical"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 6 Ω has V = 7 V. Current I? (Ohm's law)",
+    "choices": [
+      "1.17 A",
+      "42 A",
+      "13 A",
+      "0.8571428571428571 A"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Radio waves",
+      "Infrared",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Electric field",
+      "Static field only",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Ionised",
+      "Stationary in liquids",
+      "Far apart and random"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 350,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for mass to double",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 351,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Expanding",
+      "Contracting",
+      "Static"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 352,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 9 N right, 6 N left. Resultant is?",
+    "choices": [
+      "15 N right",
+      "-3 N left",
+      "15 N left",
+      "3 N right"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Acceleration",
+      "Time",
+      "Distance"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 354,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 84 N moves a box 9 m. Work done?",
+    "choices": [
+      "756 J",
+      "75 J",
+      "93 J",
+      "756 W"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 355,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Less than the smallest branch resistor",
+      "Equal to average",
+      "Sum of all resistors",
+      "Equal to the largest resistor"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 356,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Infrared",
+      "Gamma rays",
+      "Radio waves",
+      "Microwaves"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 357,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Static field only",
+      "Electric field",
+      "Magnetic field",
+      "Vacuum"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Ionised",
+      "Stationary in liquids",
+      "Closely packed and vibrate",
+      "Far apart and random"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for activity to halve",
+      "Time for atoms to vanish",
+      "Energy to start decay",
+      "Time for mass to double"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 360,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Rotating around Earth",
+      "Expanding",
+      "Static"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "F = ma",
+      "W = mg",
+      "p = mv",
+      "V = IR"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 362,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Acceleration",
+      "Time",
+      "Speed",
+      "Distance"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 363,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 848 W and useful output 811 W. Efficiency (%)?",
+    "choices": [
+      "47.8%",
+      "191.2%",
+      "95.6%",
+      "4.400000000000006%"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 364,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = V/I",
+      "P = I/V",
+      "P = V + I",
+      "P = VI"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Radio waves",
+      "Infrared",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Magnetic field",
+      "Static field only",
+      "Vacuum",
+      "Electric field"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Ionised",
+      "Stationary in liquids",
+      "Far apart and random",
+      "Closely packed and vibrate"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 368,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Contracting",
+      "Expanding",
+      "Static"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 370,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 9.8 N/kg, what is the weight of a mass of 41 kg?",
+    "choices": [
+      "401.8 N",
+      "41 N",
+      "205 N",
+      "82 N"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Time",
+      "Acceleration",
+      "Distance",
+      "Speed"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 372,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 717 J energy is transferred in 86 s, power is?",
+    "choices": [
+      "61662 W",
+      "803 W",
+      "8.34 W",
+      "0.1199442119944212 W"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 373,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "Zero at the bulb",
+      "The same everywhere",
+      "Largest at the battery",
+      "Only at switches"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 374,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Gamma rays",
+      "Radio waves",
+      "Infrared"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 375,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Static field only",
+      "Electric field",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Far apart and random",
+      "Ionised"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Energy to start decay",
+      "Time for mass to double"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Expanding",
+      "Static",
+      "Rotating around Earth"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 23 kg object moves at 3 m/s. What is its momentum?",
+    "choices": [
+      "26 kg m/s",
+      "138 kg m/s",
+      "69 kg m/s",
+      "69 N"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Distance",
+      "Acceleration",
+      "Speed",
+      "Time"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 381,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Kinetic",
+      "Chemical",
+      "Electric current",
+      "Gravitational"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 382,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 8 Ω has V = 14 V. Current I? (Ohm's law)",
+    "choices": [
+      "0.5714285714285714 A",
+      "22 A",
+      "112 A",
+      "1.75 A"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Radio waves",
+      "Microwaves",
+      "Infrared"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Vacuum",
+      "Magnetic field",
+      "Static field only"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 385,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Far apart and random",
+      "Ionised",
+      "Closely packed and vibrate",
+      "Stationary in liquids"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Energy to start decay",
+      "Time for atoms to vanish",
+      "Time for activity to halve",
+      "Time for mass to double"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Rotating around Earth",
+      "Contracting",
+      "Static",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "topic": "Forces",
+    "subtopic": "Resultant Forces",
+    "question": "Two opposite forces act: 6 N right, 10 N left. Resultant is?",
+    "choices": [
+      "16 N left",
+      "16 N right",
+      "4 N left",
+      "-4 N right"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Time",
+      "Acceleration"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "topic": "Energy",
+    "subtopic": "Work Done",
+    "question": "A constant force of 80 N moves a box 19 m. Work done?",
+    "choices": [
+      "99 J",
+      "1520 W",
+      "1520 J",
+      "61 J"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 391,
+    "topic": "Electricity",
+    "subtopic": "Series vs Parallel",
+    "question": "In parallel circuits, the total resistance is:",
+    "choices": [
+      "Equal to average",
+      "Less than the smallest branch resistor",
+      "Sum of all resistors",
+      "Equal to the largest resistor"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 392,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Gamma rays",
+      "Infrared",
+      "Radio waves",
+      "Microwaves"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 393,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Magnetic field",
+      "Vacuum",
+      "Static field only"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 394,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Ionised",
+      "Closely packed and vibrate",
+      "Far apart and random",
+      "Stationary in liquids"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve",
+      "Time for atoms to vanish"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Contracting",
+      "Static",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 397,
+    "topic": "Forces",
+    "subtopic": "Newton's Laws",
+    "question": "Which equation represents Newton's Second Law?",
+    "choices": [
+      "W = mg",
+      "F = ma",
+      "p = mv",
+      "V = IR"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 398,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Time",
+      "Acceleration"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "topic": "Energy",
+    "subtopic": "Efficiency",
+    "question": "A device has input power 535 W and useful output 339 W. Efficiency (%)?",
+    "choices": [
+      "63.4%",
+      "31.7%",
+      "126.8%",
+      "36.6%"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 400,
+    "topic": "Electricity",
+    "subtopic": "Power & Energy",
+    "question": "Power in a circuit is given by:",
+    "choices": [
+      "P = VI",
+      "P = V/I",
+      "P = I/V",
+      "P = V + I"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 401,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Radio waves",
+      "Gamma rays",
+      "Infrared"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Vacuum",
+      "Static field only",
+      "Magnetic field"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 403,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Stationary in liquids",
+      "Far apart and random",
+      "Closely packed and vibrate",
+      "Ionised"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Time for mass to double",
+      "Time for activity to halve",
+      "Energy to start decay"
+    ],
+    "answer": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 405,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Expanding",
+      "Contracting",
+      "Static",
+      "Rotating around Earth"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 406,
+    "topic": "Forces",
+    "subtopic": "Weight & Mass",
+    "question": "On Earth where g ≈ 10 N/kg, what is the weight of a mass of 42 kg?",
+    "choices": [
+      "42 N",
+      "210 N",
+      "420 N",
+      "84 N"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 407,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Time",
+      "Distance",
+      "Acceleration"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 408,
+    "topic": "Energy",
+    "subtopic": "Power",
+    "question": "If 1799 J energy is transferred in 113 s, power is?",
+    "choices": [
+      "0.06281267370761534 W",
+      "203287 W",
+      "1912 W",
+      "15.92 W"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "topic": "Electricity",
+    "subtopic": "Circuits",
+    "question": "In a simple series circuit, current is:",
+    "choices": [
+      "Largest at the battery",
+      "Zero at the bulb",
+      "The same everywhere",
+      "Only at switches"
+    ],
+    "answer": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Radio waves",
+      "Microwaves",
+      "Gamma rays",
+      "Infrared"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 411,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Electric field",
+      "Magnetic field",
+      "Vacuum",
+      "Static field only"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 412,
+    "topic": "Particle Model",
+    "subtopic": "States of Matter",
+    "question": "Particles in solids are:",
+    "choices": [
+      "Closely packed and vibrate",
+      "Stationary in liquids",
+      "Far apart and random",
+      "Ionised"
+    ],
+    "answer": 0,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 413,
+    "topic": "Radioactivity",
+    "subtopic": "Half-life",
+    "question": "Half-life is:",
+    "choices": [
+      "Time for atoms to vanish",
+      "Time for mass to double",
+      "Energy to start decay",
+      "Time for activity to halve"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 414,
+    "topic": "Space",
+    "subtopic": "Redshift",
+    "question": "Redshift of galaxies suggests the universe is:",
+    "choices": [
+      "Contracting",
+      "Static",
+      "Rotating around Earth",
+      "Expanding"
+    ],
+    "answer": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 415,
+    "topic": "Forces",
+    "subtopic": "Momentum",
+    "question": "A 32 kg object moves at 5 m/s. What is its momentum?",
+    "choices": [
+      "37 kg m/s",
+      "320 kg m/s",
+      "160 N",
+      "160 kg m/s"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 416,
+    "topic": "Motion",
+    "subtopic": "Distance–Time",
+    "question": "On a distance–time graph, what does the gradient represent?",
+    "choices": [
+      "Speed",
+      "Distance",
+      "Acceleration",
+      "Time"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 417,
+    "topic": "Energy",
+    "subtopic": "Energy Stores",
+    "question": "Which is NOT an energy store?",
+    "choices": [
+      "Electric current",
+      "Kinetic",
+      "Gravitational",
+      "Chemical"
+    ],
+    "answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 418,
+    "topic": "Electricity",
+    "subtopic": "Ohm's Law",
+    "question": "A resistor of 12 Ω has V = 2 V. Current I? (Ohm's law)",
+    "choices": [
+      "0.17 A",
+      "24 A",
+      "6.0 A",
+      "14 A"
+    ],
+    "answer": 0,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "topic": "Waves",
+    "subtopic": "EM Spectrum",
+    "question": "Which has the shortest wavelength?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Radio waves",
+      "Gamma rays"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 420,
+    "topic": "Magnetism",
+    "subtopic": "Motor Effect",
+    "question": "The motor effect is the force on a current-carrying wire in a:",
+    "choices": [
+      "Vacuum",
+      "Magnetic field",
+      "Electric field",
+      "Static field only"
+    ],
+    "answer": 1,
+    "difficulty": "Medium"
+  }
+]
